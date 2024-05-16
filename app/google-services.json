@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "106671763699",
+    "project_id": "tour-673a8",
+    "storage_bucket": "tour-673a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106671763699:android:b68d7ef371c7255cba4786",
+        "android_client_info": {
+          "package_name": "com.karry.tour"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUfBxCDynoZuzBWGku26N_Mwx0sF3Cdt8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
